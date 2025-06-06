@@ -1,0 +1,9 @@
+Flask
+gunicorn
+openai
+qdrant-client
+langchain
+langchain-openai
+langchain-community
+langchain-core
+python-dotenv
