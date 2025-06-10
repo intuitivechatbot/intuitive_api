@@ -6,8 +6,8 @@ from langchain.chains import LLMChain
 from langchain_openai import ChatOpenAI
 
 load_dotenv()
-
-def create_chain(model_name="gpt-4o-mini"):
+MODEL = os.getenv("MODEL")
+def create_chain(model_name=MODEL):
     """
     Returns a memory-aware LLMChain that supports both vector-retrieved context
     and persistent conversational memory.
