@@ -3,7 +3,7 @@ gunicorn==23.0.0
 openai==1.84.0
 qdrant-client==1.14.22
 langchain==0.3.25
-langchain-openai=0.3.19
+langchain-openai==0.3.19
 langchain-community==0.3.24
 langchain-core==0.3.63
 python-dotenv==1.1.0
