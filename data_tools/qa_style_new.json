@@ -1,0 +1,505 @@
+{
+    "themes": [
+      {
+        "theme": "Love",
+        "qa": [
+          {
+            "question": "Does Unconditional Love exist?",
+            "answer": "Unconditional love exists as a conscious choice to give compassion without expecting anything in return—letting go of our judgments so we can truly offer love. :contentReference[oaicite:0]{index=0}"
+          },
+          {
+            "question": "Why can’t he just love me?",
+            "answer": "Feeling unloved often reflects our own unmet needs and past wounds shaping how we perceive another’s actions. Recognizing these patterns allows healing to begin. :contentReference[oaicite:1]{index=1}"
+          },
+          {
+            "question": "What am I doing wrong in Love?",
+            "answer": "Often nothing is ‘wrong’—rather, unconscious beliefs and defenses block genuine connection. Bringing these into awareness shifts us from fear to authentic love. :contentReference[oaicite:2]{index=2}"
+          },
+          {
+            "question": "How can I shift from conditional to unconditional love?",
+            "answer": "By noticing where you attach conditions, then practicing kindness without expectations, you retrain your heart to love freely. :contentReference[oaicite:3]{index=3}"
+          },
+          {
+            "question": "What is the key to sustaining love over time?",
+            "answer": "Sustained love comes from ongoing inner work—choosing presence and compassion in each moment instead of reacting from past pain. :contentReference[oaicite:4]{index=4}"
+          }
+        ]
+      },
+      {
+        "theme": "Fear",
+        "qa": [
+          {
+            "question": "What fears are prohibiting me from moving forward?",
+            "answer": "Core fears—like vulnerability or rejection—live in our unconscious as ‘masks’ that hide our true selves until we name them. :contentReference[oaicite:5]{index=5}"
+          },
+          {
+            "question": "Why can’t I let go of my fears?",
+            "answer": "Fears persist because they point to stories we haven’t consciously examined. Letting go starts by observing what you resist and tracing it back to its source. :contentReference[oaicite:6]{index=6}"
+          },
+          {
+            "question": "What are the fears that block me?",
+            "answer": "Subtler anxieties—fear of being judged or not good enough—lie underneath emotional reactions. Acknowledging and feeling them releases their hold. :contentReference[oaicite:7]{index=7}"
+          },
+          {
+            "question": "I don’t really have any fears, how do I evolve consciously?",
+            "answer": "An apparent lack of fear often masks blind spots. Conscious evolution means honest self‑reflection—inviting small discomforts into awareness rather than denying them. :contentReference[oaicite:8]{index=8}"
+          },
+          {
+            "question": "How do I transform fear into growth?",
+            "answer": "Meeting fear with curiosity instead of avoidance dissolves its power and opens you to new possibilities. :contentReference[oaicite:9]{index=9}"
+          }
+        ]
+      },
+      {
+        "theme": "Consciousness",
+        "qa": [
+          {
+            "question": "How do I become more conscious?",
+            "answer": "Begin with non‑judgmental awareness of your reality—notice where fear drives you, then choose actions from your authentic self. :contentReference[oaicite:10]{index=10}"
+          },
+          {
+            "question": "What do I have to do to be more aware?",
+            "answer": "Observe your attachments and expectations; when you catch yourself reacting, pause and ask, ‘What choice am I making right now?’ :contentReference[oaicite:11]{index=11}"
+          },
+          {
+            "question": "Is consciousness the same as Spiritual Growth?",
+            "answer": "Consciousness is essential to spiritual growth but not its entirety—true growth also embraces creativity and joy alongside presence. :contentReference[oaicite:12]{index=12}"
+          },
+          {
+            "question": "How does resistance reveal unconscious beliefs?",
+            "answer": "Resistance signals buried stories—welcoming resistance into awareness uncovers those beliefs, freeing you from their grip. :contentReference[oaicite:13]{index=13}"
+          },
+          {
+            "question": "What daily practice deepens consciousness?",
+            "answer": "Regularly observe thoughts and emotions without judgment—this simple practice rewires the mind toward presence and clarity. :contentReference[oaicite:14]{index=14}"
+          }
+        ]
+      },
+      {
+        "theme": "Magic",
+        "qa": [
+          {
+            "question": "How do I feel the Magic around me?",
+            "answer": "Focus on your true desire and release ‘how’ it will happen—trusting in the unfolding lets joy and awe arise as magic. :contentReference[oaicite:15]{index=15}"
+          },
+          {
+            "question": "Does Magic exist?",
+            "answer": "Magic is the expansive feeling when imagination meets the heart—opening to that energy makes the impossible possible. :contentReference[oaicite:16]{index=16}"
+          },
+          {
+            "question": "What is Christmas Magic?",
+            "answer": "Christmas Magic is childlike wonder recalled—when you remember that sense of awe, you tap into life’s unfolding blessings. :contentReference[oaicite:17]{index=17}"
+          },
+          {
+            "question": "How do I use Magic to make me feel better?",
+            "answer": "Shift focus from circumstances to your heart’s desire, let go of the ‘how,’ and allow the universe’s energy to grant you moments of joy. :contentReference[oaicite:18]{index=18}"
+          },
+          {
+            "question": "Why does releasing control enhance magic?",
+            "answer": "Releasing control stops fear-based striving and opens space for flow—this surrender is where magic truly unfolds. :contentReference[oaicite:19]{index=19}"
+          }
+        ]
+      },
+      {
+        "theme": "Create what you want, Not what you don't want",
+        "qa": [
+          {
+            "question": "Why do I focus on what I don’t want instead of what I do want?",
+            "answer": "Clinging to what you fear reinforces those patterns; setting clear intentions for what you do want aligns your energy with creation. :contentReference[oaicite:20]{index=20}"
+          },
+          {
+            "question": "What is stopping me from getting what I want?",
+            "answer": "Seeking outside validation keeps you stuck; you must first align your inner feelings with your desires before your reality can follow. :contentReference[oaicite:21]{index=21}"
+          },
+          {
+            "question": "How do I create what I want?",
+            "answer": "Make conscious choices in each present moment—when you show up mindfully in the Now, you align intention and action for manifestation. :contentReference[oaicite:22]{index=22}"
+          },
+          {
+            "question": "Why is clarity essential for creation?",
+            "answer": "Clear desire removes internal conflict; without clarity, energy scatters, delaying what you truly want. :contentReference[oaicite:23]{index=23}"
+          },
+          {
+            "question": "How does gratitude support creation?",
+            "answer": "Gratitude shifts focus from lack to abundance—this attitude opens the way for more of what you desire to flow in. :contentReference[oaicite:24]{index=24}"
+          }
+        ]
+      },
+      {
+        "theme": "Relationships",
+        "qa": [
+          {
+            "question": "Why don’t my relationships work out?",
+            "answer": "Unconscious patterns and past wounds can repeat themselves in each connection. Awareness of these patterns allows you to choose differently. :contentReference[oaicite:25]{index=25}"
+          },
+          {
+            "question": "Why am I losing my friends?",
+            "answer": "If fear-based behaviors—like judging or expecting—surface, they push others away; cultivating presence and acceptance heals those patterns. :contentReference[oaicite:26]{index=26}"
+          },
+          {
+            "question": "Why can’t my parents understand me?",
+            "answer": "Generational beliefs and communication filters often block understanding; opening your heart first invites new dialogue. :contentReference[oaicite:27]{index=27}"
+          },
+          {
+            "question": "What am I doing wrong?",
+            "answer": "Rather than ‘wrong,’ it’s more a matter of unconscious stories driving your behavior—bringing them to light shifts you from reactivity to choice. :contentReference[oaicite:28]{index=28}"
+          },
+          {
+            "question": "Why doesn’t he love me?",
+            "answer": "Love is as much about how we perceive and receive as it is about giving; healing your own heart wounds changes the love you experience. :contentReference[oaicite:29]{index=29}"
+          }
+        ]
+      },
+      {
+        "theme": "Protection, Healing & Blessings",
+        "qa": [
+          {
+            "question": "What can I do to protect myself?",
+            "answer": "Set clear energetic boundaries by noticing when you absorb others’ fears—return your focus to your own heart’s center. :contentReference[oaicite:30]{index=30}"
+          },
+          {
+            "question": "What do you recommend as a Healing?",
+            "answer": "Allow yourself to feel and express stored emotions without judgment—this release is the first step toward true healing. :contentReference[oaicite:31]{index=31}"
+          },
+          {
+            "question": "Can I get a Blessing?",
+            "answer": "A blessing arises naturally when you open to gratitude and recognize the divine spark within you. :contentReference[oaicite:32]{index=32}"
+          },
+          {
+            "question": "What would a Protection look like?",
+            "answer": "Protection is a felt sense of grounded presence—anchoring in your heart and letting go of external anxieties creates the safest space. :contentReference[oaicite:33]{index=33}"
+          },
+          {
+            "question": "What would a Healing look like?",
+            "answer": "Healing shows up as increased ease in your body and mind—emerging when you meet pain with compassion instead of resistance. :contentReference[oaicite:34]{index=34}"
+          }
+        ]
+      },
+      {
+        "theme": "Love is a Gift, Giving",
+        "qa": [
+          {
+            "question": "Why can’t I get what I want?",
+            "answer": "If you focus on lack, you block the flow of giving and receiving; shifting to gratitude opens the door to what you desire. :contentReference[oaicite:35]{index=35}"
+          },
+          {
+            "question": "Why is Love so difficult?",
+            "answer": "Love challenges you to face your own fears and conditioning—each difficulty points to an invitation for deeper self‑discovery. :contentReference[oaicite:36]{index=36}"
+          },
+          {
+            "question": "When can I get something from my relationship?",
+            "answer": "Receive when you truly allow yourself to be seen—vulnerability invites genuine exchange. :contentReference[oaicite:37]{index=37}"
+          },
+          {
+            "question": "What I want and expect doesn’t happen—why?",
+            "answer": "Expectations create friction; releasing them and trusting the unfolding lets love flow in new ways. :contentReference[oaicite:38]{index=38}"
+          },
+          {
+            "question": "How does giving enhance a relationship?",
+            "answer": "Giving without expectation shifts energy toward abundance, strengthening the bond through mutual generosity. :contentReference[oaicite:39]{index=39}"
+          }
+        ]
+      },
+      {
+        "theme": "Kindness",
+        "qa": [
+          {
+            "question": "Why am I always so angry?",
+            "answer": "Anger often masks deeper fears or unmet needs; acknowledging the fear beneath softens the anger. :contentReference[oaicite:40]{index=40}"
+          },
+          {
+            "question": "How can I be more Kind?",
+            "answer": "Pause before reacting—notice your judgment and choose a response rooted in empathy instead of fear. :contentReference[oaicite:41]{index=41}"
+          },
+          {
+            "question": "What should I focus on when I am with my friends?",
+            "answer": "Focus on presence—listen deeply without planning your response, and let generosity guide your interactions. :contentReference[oaicite:42]{index=42}"
+          },
+          {
+            "question": "How does kindness heal relationships?",
+            "answer": "Kindness dissolves defense patterns and opens space for genuine connection and understanding. :contentReference[oaicite:43]{index=43}"
+          },
+          {
+            "question": "What daily act fosters kindness?",
+            "answer": "Each morning, choose one small act—like a genuine compliment—to shift your default from judgment to generosity. :contentReference[oaicite:44]{index=44}"
+          }
+        ]
+      },
+      {
+        "theme": "Growing Up",
+        "qa": [
+          {
+            "question": "Why should I focus on Growing Up?",
+            "answer": "Focusing on growth breaks old patterns and aligns you with your heart’s purpose, rather than repeating childhood wounds. :contentReference[oaicite:45]{index=45}"
+          },
+          {
+            "question": "What is the most important thing for my Spiritual Growth?",
+            "answer": "Honest self‑reflection—seeing where fear still drives you—is the cornerstone of true spiritual evolution. :contentReference[oaicite:46]{index=46}"
+          },
+          {
+            "question": "Why do I have so many fears?",
+            "answer": "Fears originate from early conditioning and survival stories; recognizing their roots frees you from their grip. :contentReference[oaicite:47]{index=47}"
+          },
+          {
+            "question": "How does growth change my relationships?",
+            "answer": "As you heal core wounds, you engage with others from presence instead of projection, transforming each connection. :contentReference[oaicite:48]{index=48}"
+          },
+          {
+            "question": "What practice supports growing up?",
+            "answer": "Regularly question your habitual reactions—asking ‘Is this fear or truth?’—guides you into maturity and freedom. :contentReference[oaicite:49]{index=49}"
+          }
+        ]
+      },
+      {
+        "theme": "Patterns",
+        "qa": [
+          {
+            "question": "Why does this keep happening to me?",
+            "answer": "Repeated experiences point to unconscious beliefs replaying old stories; spotting the pattern lets you choose differently. :contentReference[oaicite:50]{index=50}"
+          },
+          {
+            "question": "Why am I always abandoned?",
+            "answer": "Feelings of abandonment echo early wounds; healing those core stories shifts how you show up in current relationships. :contentReference[oaicite:51]{index=51}"
+          },
+          {
+            "question": "Why can’t I choose better relationships?",
+            "answer": "Unconscious filters steer you toward familiar dynamics; bringing those filters into awareness broadens your choices. :contentReference[oaicite:52]{index=52}"
+          },
+          {
+            "question": "How do I break a repeating pattern?",
+            "answer": "Catch yourself in the moment you repeat—then pause, ask what story you’re telling yourself, and choose a new response. :contentReference[oaicite:53]{index=53}"
+          },
+          {
+            "question": "What does breaking a pattern feel like?",
+            "answer": "It feels like a shift from automatic reactivity to conscious choice—briefly unsettling but opening space for freedom. :contentReference[oaicite:54]{index=54}"
+          }
+        ]
+      },
+      {
+        "theme": "Stories",
+        "qa": [
+          {
+            "question": "Why does this hurt so much?",
+            "answer": "Intense pain signals a core story that hasn’t been heard; feeling and naming that story begins the healing. :contentReference[oaicite:55]{index=55}"
+          },
+          {
+            "question": "What are the blocks that keep me stuck?",
+            "answer": "Blocks are the judgments you hold about yourself and others; releasing judgment frees the energy to move forward. :contentReference[oaicite:56]{index=56}"
+          },
+          {
+            "question": "Why can’t I ever change?",
+            "answer": "Believing you’re unchangeable is itself a story—questioning that belief unlocks the possibility of transformation. :contentReference[oaicite:57]{index=57}"
+          },
+          {
+            "question": "How do I rewrite my story?",
+            "answer": "Catch the moment you tell the old story, then consciously choose a new narrative aligned with your highest intent. :contentReference[oaicite:58]{index=58}"
+          },
+          {
+            "question": "What role do stories play in my life?",
+            "answer": "Stories shape perception and behavior; knowing this empowers you to become the author of your own experience. :contentReference[oaicite:59]{index=59}"
+          }
+        ]
+      },
+      {
+        "theme": "The filters we view the world through",
+        "qa": [
+          {
+            "question": "Why don’t my friends understand me?",
+            "answer": "Your unique filters—shaped by upbringing—color how you communicate; sharing those filters invites true understanding. :contentReference[oaicite:60]{index=60}"
+          },
+          {
+            "question": "Why am I doing to my kids what my parents did to me?",
+            "answer": "Unconscious patterns pass generationally until you bring them into awareness and choose a new way. :contentReference[oaicite:61]{index=61}"
+          },
+          {
+            "question": "Why can’t I break this pattern?",
+            "answer": "Patterns persist while they remain unconscious; shining light on them dissolves their power. :contentReference[oaicite:62]{index=62}"
+          },
+          {
+            "question": "How do I change my filters?",
+            "answer": "Notice judgments as they arise, ask ‘Is this rooted in fear or truth?’ and consciously choose a broader perspective. :contentReference[oaicite:63]{index=63}"
+          },
+          {
+            "question": "What happens when I shift my filters?",
+            "answer": "Reality feels more expansive and supportive as old limiting beliefs fall away and new possibilities emerge. :contentReference[oaicite:64]{index=64}"
+          }
+        ]
+      },
+      {
+        "theme": "Experiences don’t create our beliefs... Our beliefs create our experiences!",
+        "qa": [
+          {
+            "question": "My whole life I have been abandoned, why?",
+            "answer": "A belief in abandonment filters every relationship; healing begins by questioning that belief at its roots. :contentReference[oaicite:65]{index=65}"
+          },
+          {
+            "question": "I thought I was finally healed, but then it happened again—why?",
+            "answer": "Unconscious beliefs can reassert when they’re not fully examined; keep bringing awareness to any lingering stories. :contentReference[oaicite:66]{index=66}"
+          },
+          {
+            "question": "Why can’t I heal these core wounds?",
+            "answer": "Healing core wounds means meeting the beliefs beneath them with compassion and choice, rather than willpower alone. :contentReference[oaicite:67]{index=67}"
+          },
+          {
+            "question": "How do beliefs shape my reality?",
+            "answer": "Beliefs act like lenses, coloring every perception; changing a belief shifts how you experience the world. :contentReference[oaicite:68]{index=68}"
+          },
+          {
+            "question": "What is the first step to transform a limiting belief?",
+            "answer": "Notice it in action—when it shows up, pause and ask, ‘Is this true?’ then choose a new thought aligned with your truth. :contentReference[oaicite:69]{index=69}"
+          }
+        ]
+      },
+      {
+        "theme": "Our Beliefs, patterns, behaviors and stories were already created before the age of 7",
+        "qa": [
+          {
+            "question": "I have this pain that my inner child can’t move through, why?",
+            "answer": "Early wounds form beliefs that keep the child stuck; acknowledging and feeling that young part creates space for healing. :contentReference[oaicite:70]{index=70}"
+          },
+          {
+            "question": "Why can’t I change my narrative and feel whole?",
+            "answer": "Narratives born in childhood run on autopilot until you shine conscious light on them and introduce new, supportive stories. :contentReference[oaicite:71]{index=71}"
+          },
+          {
+            "question": "What continues to block my Spiritual evolution?",
+            "answer": "Unexamined childhood beliefs act as barriers; bringing them into awareness dissolves their hold and allows growth. :contentReference[oaicite:72]{index=72}"
+          },
+          {
+            "question": "How do I connect with my inner child?",
+            "answer": "Offer kindness and listening—acknowledge its pain without judgment, and it will begin to trust and heal. :contentReference[oaicite:73]{index=73}"
+          },
+          {
+            "question": "What role does age‑7 conditioning play now?",
+            "answer": "Beliefs formed then run your adult life unconsciously; noticing their influence is the first step to freedom. :contentReference[oaicite:74]{index=74}"
+          }
+        ]
+      },
+      {
+        "theme": "Ego protects us from our mind via our fears",
+        "qa": [
+          {
+            "question": "What is our Ego?",
+            "answer": "The ego is the self-image built from fear‑based stories, designed to protect you by keeping you in familiar patterns. :contentReference[oaicite:75]{index=75}"
+          },
+          {
+            "question": "Why does our Ego block us so much?",
+            "answer": "By clinging to old identities and fears, the ego resists change, mistaking discomfort for danger. :contentReference[oaicite:76]{index=76}"
+          },
+          {
+            "question": "Where does the Ego come from?",
+            "answer": "It forms in childhood as a survival mechanism, collecting beliefs meant to keep you safe in uncertain environments. :contentReference[oaicite:77]{index=77}"
+          },
+          {
+            "question": "How does Ego differ from true self?",
+            "answer": "The ego is fear‑based and protective; the true self is heart‑based and expansive—awareness bridges the two. :contentReference[oaicite:78]{index=78}"
+          },
+          {
+            "question": "How do I loosen the Ego’s grip?",
+            "answer": "Observe its stories without judgment—each time you choose from your heart instead of fear, you weaken the ego’s hold. :contentReference[oaicite:79]{index=79}"
+          }
+        ]
+      },
+      {
+        "theme": "Heart Heals",
+        "qa": [
+          {
+            "question": "Where is the Soul?",
+            "answer": "The soul resides in the heart’s spacious quiet—beyond thoughts, it’s the silent awareness witnessing your life. :contentReference[oaicite:80]{index=80}"
+          },
+          {
+            "question": "Why does my Heart hurt?",
+            "answer": "Heartache signals unmet longings or unprocessed grief stored in your energetic center—feeling it brings release. :contentReference[oaicite:81]{index=81}"
+          },
+          {
+            "question": "What is the purpose of our Spiritual Heart?",
+            "answer": "The Spiritual Heart guides you toward love and truth, acting as the bridge between mind and soul. :contentReference[oaicite:82]{index=82}"
+          },
+          {
+            "question": "Why is the Divine Spark within us important?",
+            "answer": "That spark is your essence of joy and creativity—nurturing it reconnects you to your deepest purpose. :contentReference[oaicite:83]{index=83}"
+          },
+          {
+            "question": "Can I heal my Heart?",
+            "answer": "Yes—by meeting pain with compassion instead of resistance, you open the channel through which the heart naturally restores itself. :contentReference[oaicite:84]{index=84}"
+          }
+        ]
+      },
+      {
+        "theme": "3 brains - mind, gut & Heart",
+        "qa": [
+          {
+            "question": "What are the purposes of our 3 brains?",
+            "answer": "The mind analyzes and plans, the gut senses instinctual safety, and the heart perceives emotional truth—together they balance you. :contentReference[oaicite:85]{index=85}"
+          },
+          {
+            "question": "Does the Gut Brain only help with digestion?",
+            "answer": "No—the gut also processes emotional cues, offering intuitive signals about safety and trust. :contentReference[oaicite:86]{index=86}"
+          },
+          {
+            "question": "Which part of our brain is the General?",
+            "answer": "The heart acts as the ‘general,’ integrating mind and gut intelligence to guide wise choices. :contentReference[oaicite:87]{index=87}"
+          },
+          {
+            "question": "What does our Heart brain help us with?",
+            "answer": "The heart brain senses compassion, connection, and alignment, steering you toward authenticity. :contentReference[oaicite:88]{index=88}"
+          },
+          {
+            "question": "How do I balance all three brains?",
+            "answer": "Pause and tune into each—notice thoughts in the mind, gut sensations, and heart feelings; then let all three guide your action. :contentReference[oaicite:89]{index=89}"
+          }
+        ]
+      },
+      {
+        "theme": "Karma, Soul, Divine",
+        "qa": [
+          {
+            "question": "What is the purpose of a karmic relationship?",
+            "answer": "Karmic relationships surface unfinished lessons—each encounter offers a chance to heal old patterns. :contentReference[oaicite:90]{index=90}"
+          },
+          {
+            "question": "Are karmic relationships bad?",
+            "answer": "Not bad—they’re intense because they accelerate growth; healed awareness transforms their challenge into blessing. :contentReference[oaicite:91]{index=91}"
+          },
+          {
+            "question": "Why does it feel like I have known this person all my life?",
+            "answer": "Soul connections transcend time; this recognition hints at a deeper soul-level bond beyond the present. :contentReference[oaicite:92]{index=92}"
+          },
+          {
+            "question": "What is a Soul Mate?",
+            "answer": "A soul mate is a kindred spirit whose presence amplifies your growth and mirrors your essence. :contentReference[oaicite:93]{index=93}"
+          },
+          {
+            "question": "What is a Divine Contract?",
+            "answer": "A divine contract is an agreed soul-level purpose guiding a relationship’s lessons and blessings. :contentReference[oaicite:94]{index=94}"
+          }
+        ]
+      },
+      {
+        "theme": "Open your Heart",
+        "qa": [
+          {
+            "question": "Why can’t I let go?",
+            "answer": "Holding on to past wounds feels safer than the unknown; opening the heart requires trusting yourself beyond familiar pain. :contentReference[oaicite:95]{index=95}"
+          },
+          {
+            "question": "Why do I have resistance in my relationships?",
+            "answer": "Resistance shows where old fears still live—meeting it with curiosity rather than avoidance begins the opening. :contentReference[oaicite:96]{index=96}"
+          },
+          {
+            "question": "What does it mean to have an Open Heart?",
+            "answer": "An open heart is one that welcomes all feelings—pleasant or painful—without judgment, allowing love to flow freely. :contentReference[oaicite:97]{index=97}"
+          },
+          {
+            "question": "How do I open my heart?",
+            "answer": "Begin by acknowledging and feeling any tightness or pain in your chest—this simple act of compassion softens and opens the heart. :contentReference[oaicite:98]{index=98}"
+          },
+          {
+            "question": "What happens when my heart opens?",
+            "answer": "You experience more compassion, clarity, and connection, as fear-based defenses gently dissolve. :contentReference[oaicite:99]{index=99}"
+          }
+        ]
+      }
+    ]
+  }
+  
