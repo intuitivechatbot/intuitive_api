@@ -34,13 +34,13 @@ for idx, path in enumerate(txt_paths):
     })
 
 # Use OpenAI embeddings (1536-dim)
-embedder = OpenAIEmbeddings(openai_api_key='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')
+embedder = OpenAIEmbeddings(openai_api_key=os.getenv('OPENAI_API_KEY'))
 vectors = embedder.embed_documents(texts)
 
 # Connect to Qdrant Cloud
 client = QdrantClient(
-    url="https://0a1ef620-e14a-4613-bc1d-33ad516e17da.us-east4-0.gcp.cloud.qdrant.io",
-    api_key="gl7LRz-uMpcYl8XPVrO2PPm2IyLa4fhe6SdpisxpMOFxUbsQowDBKg"
+    url= os.getenv("QDRANT_URL"),
+    api_key= os.getenv("QDRANT_API_KEY")
 )
 
 collection_name = "blogs"
